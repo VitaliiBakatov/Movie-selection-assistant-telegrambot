@@ -1,0 +1,3 @@
+TOKEN = '1407922873:AAGozfimZT4-yds7DyA_2bp7-yQQWW6EZdY'
+TIMEZONE = 'Europe/Moscow'
+TIMEZONE_COMMON_NAME = 'Moscow'
